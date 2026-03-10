@@ -47,13 +47,6 @@
 
 ---
 
-## 🧪 Current Projects
-
-🚧 **Xwitter**  
-A social media web app built with **Next.js, Bun, and MongoDB**.
-
----
-
 ## 📈 Activity Graph
 
 ![Utsho's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utsho-fleekbd&theme=tokyo-night)
